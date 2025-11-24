@@ -1,3 +1,15 @@
+>[!important]
+>This application is currently unusable.
+>The NASA API that this project requires to function is now archived as the original maintainer (Corin DaRosa) has moved on from the project.
+>I wish them well in their future projects, and thank them for the 10 years that they hosted the API for.
+>
+>Until such time that I can reverse engineer the API, or figure out how Ruby works enough to get it running again, this project will simply not work.
+>I am working to figure out a solution to the problem!
+>If any of you wish to take on the task of getting the API running again, please do! The repository is accessible [Here](https://github.com/corincerami/mars-photo-api). If you are playing around with getting the API up and running, please do get in touch with me at **owen@plimsoft.co.uk** as I would love to get the app running again!
+>
+>Thank you.
+
+
 <h1 align="center" id="title">Mars Cam</h1>
 
 <p align="center"><img src="https://socialify.git.ci/Owen7000/MarsCam/image?description=1&amp;descriptionEditable=View%20and%20save%20images%20directly%20from%20NASA%20Mars%20Rovers.&amp;font=Source%20Code%20Pro&amp;forks=1&amp;issues=1&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Plus&amp;pulls=1&amp;stargazers=1&amp;theme=Auto" alt="project-image"></p>
